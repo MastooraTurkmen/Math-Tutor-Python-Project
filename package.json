@@ -1,5 +1,5 @@
 {
-  "name": "project",
+  "name": "math-tutor",
   "dependencies": {},
   "devDependencies": {
     "vite": "latest"
