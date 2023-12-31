@@ -20,8 +20,4 @@ for q in range(no_questions):
 print(f'Thank you for playing! \nYou got {score} out of {no_questions} ({round(score/no_questions*100)}%) correct in {round(end-start,1)} seconds ({round((end-start)/no_questions,1)}seconds/question)')
 for a in answer_list:
     print(a)
-# create two random numbers and calc answer
-# show user the question
-# capture answer and modify user score
-# output final score 
 
